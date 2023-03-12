@@ -1,2 +1,1 @@
-#  Object Oriented Programming - Java
-## Object Oriented Programming, exercises to practice. Problem-based programs presented in Case Studies, programmed in Java language.
+#Object-Oriented Programming in Java: a collection of exercises for practice. These programs are presented as case studies and implemented using Java language, with a ##focus on Object-Oriented Programming principles.
